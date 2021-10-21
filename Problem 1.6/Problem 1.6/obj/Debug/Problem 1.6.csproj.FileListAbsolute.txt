@@ -1,0 +1,14 @@
+C:\Users\gamuc\OneDrive\Desktop\Problem 1.6\Problem 1.6\bin\Debug\Problem 1.6.exe.config
+C:\Users\gamuc\OneDrive\Desktop\Problem 1.6\Problem 1.6\bin\Debug\Problem 1.6.exe
+C:\Users\gamuc\OneDrive\Desktop\Problem 1.6\Problem 1.6\bin\Debug\Problem 1.6.pdb
+C:\Users\gamuc\OneDrive\Desktop\Problem 1.6\Problem 1.6\obj\Debug\Problem 1.6.csproj.AssemblyReference.cache
+C:\Users\gamuc\OneDrive\Desktop\Problem 1.6\Problem 1.6\obj\Debug\Problem 1.6.csproj.CoreCompileInputs.cache
+C:\Users\gamuc\OneDrive\Desktop\Problem 1.6\Problem 1.6\obj\Debug\Problem 1.6.exe
+C:\Users\gamuc\OneDrive\Desktop\Problem 1.6\Problem 1.6\obj\Debug\Problem 1.6.pdb
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.6\Problem 1.6\bin\Debug\Problem 1.6.exe.config
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.6\Problem 1.6\bin\Debug\Problem 1.6.exe
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.6\Problem 1.6\bin\Debug\Problem 1.6.pdb
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.6\Problem 1.6\obj\Debug\Problem 1.6.csproj.AssemblyReference.cache
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.6\Problem 1.6\obj\Debug\Problem 1.6.csproj.CoreCompileInputs.cache
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.6\Problem 1.6\obj\Debug\Problem 1.6.exe
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.6\Problem 1.6\obj\Debug\Problem 1.6.pdb
